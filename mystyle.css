@@ -1,0 +1,5 @@
+.fizz { background-color: #c0ffee; }
+.buzz { background-color: #decaff; }
+.fizzbuzz { background-color: #fab; }
+
+#container { margin: 0 auto; max-width: 800px; }
